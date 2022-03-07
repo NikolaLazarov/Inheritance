@@ -1,3 +1,3 @@
 # Inheritance
- Thou shall inherite thy class
+thy class shall be inherited
 - C# основи на езика
